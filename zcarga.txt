@@ -1,0 +1,64 @@
+Correo electrónico: erika.oural@bue.edu.ar
+Prenda 1:
+Peso: 4 gramos
+Color: celeste-azul
+Tipo de tejido: plano
+Prenda 2:
+Peso: 7 gramos
+Color: gris oscuro-negro
+Tipo de tejido: plano
+Prenda 3:
+Peso: 2 gramos
+Color: amarillo-ocre
+Tipo de tejido: plano
+---------------------------------
+Correo electrónico: Prueba@estoEsUnaPrueba.com
+Prenda 1:
+Peso: 200 gramos
+Color: celeste-azul
+Tipo de tejido: plano
+Prenda 2:
+Peso: 350 gramos
+Color: verde
+Tipo de tejido: punto
+Prenda 3:
+Peso: 150 gramos
+Color: amarillo-ocre
+Tipo de tejido: plano
+---------------------------------
+Correo electrónico: Hola@prueba.com
+Prenda 1:
+Peso: 250 gramos
+Color: celeste-azul
+Tipo de tejido: plano
+Prenda 2:
+Peso: 100 gramos
+Color: gris oscuro-negro
+Tipo de tejido: punto
+Prenda 3:
+Peso: 50 gramos
+Color: verde
+Tipo de tejido: plano
+---------------------------------
+Correo electrónico: Prueba1@hola.com
+Prenda 1:
+Peso: 200 gramos
+Color: celeste-azul
+Tipo de tejido: plano
+Prenda 2:
+Peso: 150 gramos
+Color: verde
+Tipo de tejido: punto
+---------------------------------
+Correo electrónico: s@cooc.com
+Prenda 1:
+Peso: 2 gramos
+Color: celeste-azul
+Tipo de tejido: plano
+---------------------------------
+Correo electrónico: a@b.com
+Prenda 1:
+Peso: 2 gramos
+Color: celeste-azul
+Tipo de tejido: plano
+---------------------------------
