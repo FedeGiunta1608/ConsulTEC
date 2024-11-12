@@ -11,8 +11,9 @@
             margin: 0;
             padding: 0;
             background-image: url('fondo.jpg'); /* Imagen de fondo */
-            background-size: cover;
+           
             background-position: center;
+            background-repeat: repeat;
         }
         .container {
             width: 80%;
@@ -90,6 +91,20 @@
       .btn-donacion:hover {
           background-color: #45a049;
       }
+
+      .impar.et15 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 30px 0;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.5); /* Fondo blanco con transparencia */
+    border-radius: 10px;
+    background-image: url('fondo.png'); /* Imagen de fondo */
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 
     </style>
 </head>
@@ -178,26 +193,39 @@
                 <p>La técnica de serigrafía utilizada garantiza una alta calidad de impresión, durabilidad y versatilidad en cuanto a los materiales. Además, se propone reutilizar los retazos de tela para crear etiquetas personalizadas, reduciendo el desperdicio y optimizando los recursos.</p>
             </div>
         </div>
-<!--
-      
-        <div class="section impar">
-            <img src="fader2.jpg" alt="Hilado y tejido de fibras recicladas">
+
+           
+           <div class="section impar.et15">
+            <img src="et15logo.jpg" alt="Recepción de ropa usada reciclada">
             <div>
-                <h2> </h2>
-                <p>Ésta técnica nos favorece ya que está recomendada para estampar detalles finos y complejos. Así mismo favorece a la empresa ya que, a diferencia de la técnica usada actualmente, se pueden estampar en todo tipo de tela. Por lo tanto, resolvemos la problemática de solo poder estampar en cierta clase de telas, abriendo las posibilidades de   materiales que se pueden estampar los productos de TN Platex.
-                También se beneficia a los clientes porque se aplican capas de tinta más duraderas, lo que garantiza que el diseño no se desgaste con facilidad, ya que la tinta utilizada en la serigrafía se adhiere completamente a la fibra del tejido, lo que la hace resistente a múltiples ciclos de lavado.</p>
+                <h3>Se creó un nuevo logo que es para la nueva área de la empresa  donde se va vender ropa, accesorios  y bolsas</h3>
+                <p>Este logo quiere representar la economía circular. No quisimos utilizar los colores verdes tradicionales 
+                    ya que representa lo biodegradable y nosotros apuntamos a que sea más enfocado a la tierra.</p>
+            </div>
+        </div>
+        
+        <div class="section video" style="display: flex; align-items: center; justify-content: flex-start; margin: 30px 0; padding: 20px; 
+        background-color: rgba(255, 255, 255, 0.5); /* Menos blanco, más transparente */ border-radius: 10px; background-image: url('fondo.png'); 
+        background-size: cover; background-repeat: no-repeat; background-position: center; flex-direction: row-reverse;">
+    <video width="300" controls style="margin-left: 10px;"> <!-- Video con margen izquierdo -->
+        <source src="totem.mp4" type="video/mp4">
+    </video>
+    <div style="text-align: left;">
+        <h2 style="font-size: 30px; font-weight: bold;">Creamos un totem para la concientización</h2>
+        <p style="font-size: 20px; color: #555; margin: 20px;">Con ubicaciones técnicas para que lleguen a más personas</p> 
+        <p style="font-size: 20px; color: #555; margin: 20px;">Esta contiene la información de los problemas causantes y cómo podrían poner un granito de arena.</p>
+    </div>
+</div>
+
+
+           
+           <div class="section impar.et15">
+            <img src="et151.jpg" alt="Recepción de ropa usada reciclada">
+            <div>
+                <h3>Usar cajas de semillas con  papel kraft para tus empaques puede agregar un valor significativo a tus productos.</h3>
+                <p>no solo atraerás a clientes conscientes del medio ambiente, sino que también les ofrecerás una experiencia única al poder plantar el empaque y ver crecer algo nuevo.</p>
             </div>
         </div>
 
-      
-        <div class="section par">
-            <img src="fader4.jpg" alt="Ropa reciclada lista para la venta">        
-            <div>
-                <h2>MÁS PROPUESTAS</h2>
-                <p>Tomamos la decisión de no procesar retazos de tela que tengan un tamaño determinado y no estén muy dañados o contaminados; utilizándolos para hacer etiquetas a pedido o para la misma TN Platex. Dicha etiqueta usaría la técninca serigráfica, sin necesidad de tener un solo shablon por etiqueta, sino uno para estampar varias etiquetas en una sola pasada de tinta.</p>
-            </div>
-        </div>
-
--->
 </body>
 </html>
